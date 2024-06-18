@@ -1,0 +1,3 @@
+{
+    "agent.setCherryDoor|block": "エージェントにサクラのドアを$count個、自分のスロット$slot番に設定させる"
+}

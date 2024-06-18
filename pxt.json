@@ -1,0 +1,16 @@
+{
+    "name": "makecode-minecraft-cherry-door",
+    "description": "",
+    "version": "0.0.1",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "cherryDoor.ts",
+        "_locales/ja/makecode-minecraft-cherry-door-strings.json"
+    ],
+    "preferredEditor": "tsprj",
+    "supportedTargets": [
+        "minecraft"
+    ]
+}
